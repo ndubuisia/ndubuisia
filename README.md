@@ -10,9 +10,11 @@ make meaningful and impactful decisions.
 ## Goals 🌟
 
 Building various machine learning models to solve real
-world challenges and problems, such as growing
-crops that can withstand the ever growing harsh
-environment.
+world problems in the following industries:
+
+- Agriculture
+- Materials science
+- Energy
 
 ## Tools and Technologies 🛠️
 
